@@ -1,0 +1,13 @@
+# Eseguibili compilati (nessuna estensione)
+pswToHash
+candidatesGen
+sequentialPswCrack
+parallelPswCrack
+validation
+# Oggetti e binari generici
+*.o
+*.out
+a.out
+# Dataset grandi (es. RockYou) — non vanno su git
+*.txt
+!requirements*.txt
